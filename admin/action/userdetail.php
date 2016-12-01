@@ -1,7 +1,7 @@
 <?php
 $data = array(
 	"id" => 1,
-	"username" => "小铭1",
+	"username" => "雄心小胖",
 	"telephone" => "12345678901",
 	"password" => "123",
 	"sex" => '男',
